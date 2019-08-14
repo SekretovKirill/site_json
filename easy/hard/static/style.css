@@ -1,0 +1,37 @@
+P {
+	font-family: "Arial";
+	font-size: 30px;
+	color: White;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em
+}
+.ca{
+    font-family: "Sans";
+    font-style: italic;
+    color: white;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em
+}
+body {
+  color: #004500;
+  background: url("https://cs9.pikabu.ru/post_img/big/2017/07/09/0/149954916412472222.jpg") no-repeat 50%;
+  }
+.cd{
+    font-family: "Sans";
+    font-style: italic;
+    color: Green;
+     font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    display: block
+    }
+ .bt{
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    display: block
+    }
